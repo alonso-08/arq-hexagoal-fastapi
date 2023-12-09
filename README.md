@@ -1,0 +1,1 @@
+# arq-hexagoal-fastapi
